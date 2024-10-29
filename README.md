@@ -1,4 +1,8 @@
-## Hi there 👋
+## 一名普通的初中生
+自己的博客：www.uuu.me.uk
+最爱用的操作系统：Debian和Arch Linux
+出生年份：2010年
+性别：男
 
 <!--
 **zxrcs/zxrcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
